@@ -4,7 +4,7 @@ import styled from 'styled-components'
 
 const Footer = () => {
   return (
-    <FooterContainer className="main-footer fixed-bottom">
+    <FooterContainer className="main-footer">
       <div className="footer-middle">
         <div className="container">
           <div className="row">
